@@ -4,4 +4,10 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
     font-weight: bold;
+    line-height: 1.9em;
+}
+
+.box-1 {
+    color: teal;
+    text-align: center;
 }
