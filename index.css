@@ -7,7 +7,22 @@ body {
     line-height: 1.9em;
 }
 
-.box-1 {
-    color: teal;
+.container{
+    width: 500px;
+    margin: auto;
+}
+
+.login-form[type = text]{
+    width: 100px;
+    padding: 12px 20px;
     text-align: center;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.box-1 {
+    color: white;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: #333333;
 }
